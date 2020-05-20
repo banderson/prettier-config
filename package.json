@@ -1,0 +1,18 @@
+{
+  "name": "@cntxt/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for cntxt.io apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/banderson/prettier-config"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Ben Anderson <banderson87@gmail.com>",
+  "license": "MIT"
+}
