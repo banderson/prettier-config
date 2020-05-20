@@ -1,8 +1,8 @@
 {
-  "name": "@cntxt/prettier-config",
+  "name": "@banderson/prettier-config",
   "version": "1.0.0",
-  "description": "Prettier config for cntxt.io apps",
-  "main": "index.js",
+  "description": "Base Prettier config",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
