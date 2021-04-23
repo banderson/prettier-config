@@ -1,5 +1,5 @@
 {
-  "name": "@banderson/prettier-config",
+  "name": "@cntxt/prettier-config",
   "version": "1.0.0",
   "description": "Base Prettier config",
   "main": "index.json",

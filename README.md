@@ -1,4 +1,4 @@
-# `@banderson/prettier-config`
+# `@cntxt/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ npm install --dev @banderson/prettier-config
+$ npm install --dev @cntxt/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ npm install --dev @banderson/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@banderson/prettier-config"
+  "prettier": "@cntxt/prettier-config"
 }
 ```
